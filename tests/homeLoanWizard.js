@@ -1,4 +1,3 @@
-
 var fieldData = require('../testAssets/homeLoanWizardArray')
 
 var fieldDataInvalid = require('../testAssets/homeLoanWizardInvalidArray')
