@@ -1,4 +1,3 @@
-
 var moneyCommands = {
     money: function (data) {
         this
