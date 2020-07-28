@@ -12,4 +12,4 @@ npm i
 
 npm start
 
-Once the Home Loan Wizard is running in a browser, execute the Lesson 13 Project automation.
+Once "Home Loan Wizard" is running in a browser, execute the Lesson 13 Project automation.
