@@ -2,13 +2,13 @@ module.exports = [
     {
         purchasePrice: "aaaaaa",
         downPayment: "aaaaaa",
-        overviewPrice: "aaaaaa",
+        overviewHomePrice: "aaaaaa",
         overviewDownPayment: "aaaaaa"
     },
     {
         purchasePrice: "//////",
         downPayment: "//////",
-        overviewPrice: "//////",
+        overviewHomePrice: "//////",
         overviewDownPayment: "//////"
     }
 ]
