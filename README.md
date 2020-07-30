@@ -14,10 +14,11 @@ Clone the following repository:
 ```
 git clone https://github.com/DevMountain-QA/home-loan-wizard
 ```
-Go to the newly cloned directory:
+Navigate to the newly cloned directory:
 ```
 cd home-loan-wizard
 ```
+(The following step was already taken care of and the files are included in the "Lesson 13 Project" automation)
 Install chromedriver for the project:
 ```
 npm i chromedriver
