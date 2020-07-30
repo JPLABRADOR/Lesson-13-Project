@@ -7,7 +7,6 @@ Open a terminal or command line and install nightwatch globally on your machine:
 ```
 npm i -g nightwatch
 ```
-
 Navigate to your local project folder.
 Clone the following repository: 
 ```
@@ -17,12 +16,8 @@ Navigate to the newly cloned directory:
 ```
 cd home-loan-wizard
 ```
-The following two steps were already taken care of and the files are included in the "Lesson 13 Project" automation. If this version of ChromeDriver needs to be updated, execute "npm i chromedriver" or if dependencies need to be updated, execute "npm i".
-```
-Install chromedriver for the project:
-npm i chromedriver
-
 Install necessary dependencies with the command:
+```
 npm i
 ```
 Start the application with the command:
