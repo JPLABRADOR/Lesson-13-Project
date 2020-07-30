@@ -14,7 +14,7 @@ Clone the following repository:
 ```
 git clone https://github.com/DevMountain-QA/home-loan-wizard
 ```
-Execute the following commands using a terminal/bash session:
+Go to the newly cloned directory:
 ```
 cd home-loan-wizard
 ```
