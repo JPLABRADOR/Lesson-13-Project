@@ -10,8 +10,10 @@ npm i -g nightwatch
 ```
 
 Navigate to your local project folder.
-Clone the following repository: https://github.com/DevMountain-QA/home-loan-wizard
-
+Clone the following repository: 
+```
+git clone https://github.com/DevMountain-QA/home-loan-wizard
+```
 Execute the following commands using a terminal/bash session:
 ```
 cd home-loan-wizard
@@ -29,9 +31,7 @@ Start the application with the command:
 ```
 npm start
 ```
-A browser window will open at http://localhost:3000 
-
-running the "Home Loan Wizard" app. Once the "Home Loan Wizard" app is running in a browser, in another terminal window, execute the "Lesson 13 Project" automation:
+A browser window will open at http://localhost:3000 running the "Home Loan Wizard" app. Once the "Home Loan Wizard" app is running in a browser, in another terminal window, execute the "Lesson 13 Project" automation:
 ```
 nightwatch /tests/homeLoanWizard.js
 ```
