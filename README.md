@@ -18,14 +18,12 @@ Navigate to the newly cloned directory:
 ```
 cd home-loan-wizard
 ```
-(The following step was already taken care of and the files are included in the "Lesson 13 Project" automation)
+(The following two steps were already taken care of and the files are included in the "Lesson 13 Project" automation. If something is not working correctly, go back and follow these steps.)
+```
 Install chromedriver for the project:
-```
 npm i chromedriver
-```
-(The following step was already taken care of and the files are included in the "Lesson 13 Project" automation)
+
 Install necessary dependencies with the command:
-```
 npm i
 ```
 Start the application with the command:
