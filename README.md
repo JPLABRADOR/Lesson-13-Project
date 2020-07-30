@@ -21,9 +21,7 @@ npm start
 ```
 A browser window will open at http://localhost:3000 
 
-displaying the "Home Loan Wizard" app.
-
-Once the "Home Loan Wizard" is running in a browser, in another terminal window, execute the Lesson 13 Project automation:
+running the "Home Loan Wizard" app. Once the "Home Loan Wizard" app is running in a browser, in another terminal window, execute the "Lesson 13 Project" automation:
 ```
 nightwatch /tests/homeLoanWizard.js
 ```
