@@ -10,7 +10,7 @@ Execute the following commands using a terminal/bash session:
 ```
 cd home-loan-wizard
 ```
-(The following step was already taken care of and the files are included in the Lesson 13 Project automation)
+(The following step was already taken care of and the files are included in the "Lesson 13 Project" automation)
 Install necessary dependencies with the command:
 ```
 npm i
