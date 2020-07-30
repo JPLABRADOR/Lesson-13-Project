@@ -18,7 +18,7 @@ Navigate to the newly cloned directory:
 ```
 cd home-loan-wizard
 ```
-(The following two steps were already taken care of and the files are included in the "Lesson 13 Project" automation. If this version of ChromeDriver needs to be updated, execute "npm i chromedriver" or if dependencies need to be updated, execute "npm i".)
+The following two steps were already taken care of and the files are included in the "Lesson 13 Project" automation. If this version of ChromeDriver needs to be updated, execute "npm i chromedriver" or if dependencies need to be updated, execute "npm i".
 ```
 Install chromedriver for the project:
 npm i chromedriver
