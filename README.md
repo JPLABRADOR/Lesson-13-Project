@@ -1,10 +1,9 @@
 # Lesson-13-Project
 
 #### Instructions:
+Install NodeJS (includes npm): https://nodejs.org/en/download/
 
-Open a terminal or command line.
-
-Install nightwatch globally on your machine:
+Open a terminal or command line and install nightwatch globally on your machine:
 ```
 npm i -g nightwatch
 ```
