@@ -27,7 +27,7 @@ npm start
 ```
 A browser window will open at http://localhost:3000 running the "Home Loan Wizard" app. 
 
-#### Now clone the Lesson-13-Project:
+### Now clone the Lesson-13-Project:
 
 In another terminal window, navigate back to your local project folder.
 Clone the following repository: 
