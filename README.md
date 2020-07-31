@@ -1,4 +1,5 @@
 # Lesson-13-Project
+Automated testing for the "Home Loan Wizard" web application. Browser automation created using Nightwatch.js.
 
 #### Instructions:
 Install NodeJS (includes npm): https://nodejs.org/en/download/
