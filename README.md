@@ -24,7 +24,20 @@ Start the application with the command:
 ```
 npm start
 ```
-A browser window will open at http://localhost:3000 running the "Home Loan Wizard" app. Once the "Home Loan Wizard" app is running, in another terminal window, execute the "Lesson 13 Project" automation:
+A browser window will open at http://localhost:3000 running the "Home Loan Wizard" app. 
+
+#### Now clone the Lesson-13-Project:
+
+In another terminal window, navigate back to your local project folder.
+Clone the following repository: 
+```
+git clone https://github.com/JPLABRADOR/Lesson-13-Project.git
+```
+Navigate to the newly cloned directory:
+```
+cd Lesson-13-Project
+```
+While the "Home Loan Wizard" app is still running in A browser window, execute the "Lesson 13 Project" automation:
 ```
 nightwatch /tests/homeLoanWizard.js
 ```
