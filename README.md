@@ -40,5 +40,5 @@ cd Lesson-13-Project
 ```
 While the "Home Loan Wizard" app is still running in a browser window, execute the "Lesson 13 Project" automation:
 ```
-nightwatch /tests/homeLoanWizard.js
+nightwatch tests/homeLoanWizard.js
 ```
