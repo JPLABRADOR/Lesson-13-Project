@@ -38,6 +38,10 @@ Navigate to the newly cloned directory:
 ```
 cd Lesson-13-Project
 ```
+Install chromedriver for the project:
+```
+npm install chromedriver --save-dev
+```
 While the "Home Loan Wizard" app is still running in a browser window, execute the "Lesson 13 Project" automation:
 ```
 nightwatch tests/homeLoanWizard.js
